@@ -73,6 +73,7 @@
 			<td>GitHub</td>
 			<td>Twitter</td>
 			<td>Qiita</td>
+			<td>Speaker Deck</td>
       <td>niconico</td>
 		</tr>
 		<tr>
@@ -89,6 +90,11 @@
 			<td>
         <a href="https://qiita.com/trackiss">
           <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/qiita.svg">
+          </a>
+      </td>
+			<td>
+        <a href="https://speakerdeck.com/trackiss">
+          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/speakerdeck.svg">
           </a>
       </td>
 			<td>
