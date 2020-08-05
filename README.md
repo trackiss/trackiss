@@ -29,7 +29,7 @@
 			<td>C#</td>
 			<td>TypeScript</td>
 		</tr>
-		<tr>
+		<tr align="center">
 			<td>
         <a href="https://www.scala-lang.org/">
           <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/scala.svg">
@@ -76,7 +76,7 @@
 			<td>Speaker Deck</td>
       <td>niconico</td>
 		</tr>
-		<tr>
+		<tr align="center">
 			<td>
         <a href="https://github.com/trackiss">
           <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg">
