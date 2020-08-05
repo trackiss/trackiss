@@ -18,7 +18,7 @@
 
 [![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&theme=dracula&hide=html,css,javascript)](https://github.com/trackiss?tab=repositories)
 
-### Skils & Currently Learning
+### (Currently Learning) Skils
 
 <table>
 	<tbody>
