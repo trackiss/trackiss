@@ -35,27 +35,27 @@
 		<tr align="center">
 			<td>
         <a href="https://www.scala-lang.org/">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/scala.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/scala.svg">
           </a>
       </td>
 			<td>
         <a href="https://kotlinlang.org/">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg">
           </a>
       </td>
 			<td>
         <a href="https://haxe.org/">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/haxe.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/haxe.svg">
           </a>
       </td>
 			<td>
         <a href="https://github.com/dotnet/csharplang">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg">
           </a>
       </td>
 			<td>
         <a href="https://www.typescriptlang.org/">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg">
           </a>
       </td>
 		</tr>
@@ -82,27 +82,27 @@
 		<tr align="center">
 			<td>
         <a href="https://github.com/trackiss">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg">
           </a>
       </td>
 			<td>
         <a href="https://twitter.com/trackiss">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg">
           </a>
       </td>
 			<td>
         <a href="https://qiita.com/trackiss">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/qiita.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/qiita.svg">
           </a>
       </td>
 			<td>
         <a href="https://speakerdeck.com/trackiss">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/speakerdeck.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/speakerdeck.svg">
           </a>
       </td>
 			<td>
         <a href="https://www.upload.nicovideo.jp/garage/videos">
-          <img width='64' src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/niconico.svg">
+          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/niconico.svg">
           </a>
       </td>
 		</tr>
