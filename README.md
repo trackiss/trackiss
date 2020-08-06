@@ -5,6 +5,8 @@
 昔は耳コピやってましたが、[~~MQube~~](https://mqube.net) が潰れたので今は公開していません (一部はニコニコに上がってます)。  
 フォント集めるのが趣味です。
 
+
+
 ### History
 
 ```diff
@@ -106,3 +108,7 @@
 		</tr>
 	</tbody>
 </table>
+
+<br>
+
+<img text-align="left" height="24" src="https://profile-counter.glitch.me/trackiss/count.svg">
