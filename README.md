@@ -5,8 +5,6 @@
 昔は耳コピやってましたが、[~~MQube~~](https://mqube.net) が潰れたので今は公開していません (一部はニコニコに上がってます)。  
 フォント集めるのが趣味です。
 
-
-
 ### History
 
 ```diff
@@ -24,42 +22,42 @@
 ### (Currently Learning) Skils
 
 <table>
-	<tbody>
-		<tr align="center">
-			<td>Scala</td>
-			<td>Kotlin</td>
-			<td>Haxe</td>
-			<td>C#</td>
-			<td>TypeScript</td>
-		</tr>
-		<tr align="center">
-			<td>
+ <tbody>
+  <tr align="center">
+   <td>Scala</td>
+   <td>Kotlin</td>
+   <td>Haxe</td>
+   <td>C#</td>
+   <td>TypeScript</td>
+  </tr>
+  <tr align="center">
+   <td>
         <a href="https://www.scala-lang.org/">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/scala.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://kotlinlang.org/">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://haxe.org/">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/haxe.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://github.com/dotnet/csharplang">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://www.typescriptlang.org/">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg">
           </a>
       </td>
-		</tr>
-	</tbody>
+  </tr>
+ </tbody>
 </table>
 
 - and
@@ -71,42 +69,42 @@
 ### Social
 
 <table>
-	<tbody>
-		<tr align="center">
-			<td>GitHub</td>
-			<td>Twitter</td>
-			<td>Qiita</td>
-			<td>Speaker Deck</td>
+ <tbody>
+  <tr align="center">
+   <td>GitHub</td>
+   <td>Twitter</td>
+   <td>Qiita</td>
+   <td>Speaker Deck</td>
       <td>niconico</td>
-		</tr>
-		<tr align="center">
-			<td>
+  </tr>
+  <tr align="center">
+   <td>
         <a href="https://github.com/trackiss">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://twitter.com/trackiss">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://qiita.com/trackiss">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/qiita.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://speakerdeck.com/trackiss">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/speakerdeck.svg">
           </a>
       </td>
-			<td>
+   <td>
         <a href="https://www.upload.nicovideo.jp/garage/videos">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/niconico.svg">
           </a>
       </td>
-		</tr>
-	</tbody>
+  </tr>
+ </tbody>
 </table>
 
 <br>
