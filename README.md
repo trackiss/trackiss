@@ -17,9 +17,9 @@
 
 ### GitHub Status
 
-[![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&theme=dracula&count_private=true&hide=issues)](https://github.com/trackiss?tab=repositories)
+[![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&count_private=true&hide=issues)](https://github.com/trackiss?tab=repositories)
 
-[![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&theme=dracula&hide=html,css,javascript)](https://github.com/trackiss?tab=repositories)
+[![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&hide=html,css,javascript)](https://github.com/trackiss?tab=repositories)
 
 ### (Currently Learning) Skils
 
