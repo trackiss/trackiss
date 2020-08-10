@@ -99,7 +99,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.upload.nicovideo.jp/garage/videos">
+        <a href="https://www.nicovideo.jp/user/44928846/video">
           <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/niconico.svg">
         </a>
       </td>
