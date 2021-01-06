@@ -1,6 +1,6 @@
 ## trackiss (とらきす)
 
-好きでコード書いてます。主にバックエンド。
+趣味コーダー。
 
 昔は耳コピやってましたが、[~~MQube~~](https://mqube.net) が潰れたので今は公開していません (一部はニコニコに上がってます)。  
 フォント集めるのが趣味です。
@@ -61,9 +61,9 @@
 </table>
 
 - and
-  - DDD
-  - (Hexagonal | Onion | Clean) Architecture
-  - CQRS
+  - DDD, (Hexagonal | Onion | Clean) Architecture
+  - Functional Proguramming
+  - Category Theory
 - etc...
 
 ### Social
