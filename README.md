@@ -1,9 +1,8 @@
 ## trackiss (とらきす)
 
-趣味コーダー。
-
 昔は耳コピやってましたが、[~~MQube~~](https://mqube.net) が潰れたので今は公開していません (一部はニコニコに上がってます)。  
-フォント集めるのが趣味です。
+フォント集めるのが趣味でした。  
+現在は Chatwork で Scala 書いています。
 
 ### History
 
@@ -62,8 +61,9 @@
 
 - and
   - DDD, (Hexagonal | Onion | Clean) Architecture
-  - Functional Proguramming
-  - Category Theory
+  - 関数型プログラミング
+  - 圏論
+  - 巨大数
 - etc...
 
 ### Social
