@@ -1,22 +1,31 @@
 ## trackiss (とらきす)
 
-昔は耳コピやってましたが、[~~MQube~~](https://mqube.net) が潰れたので今は公開していません (一部はニコニコに上がってます)。  
-フォント集めるのが趣味でした。  
-現在は Chatwork で Scala 書いています。
+Chatwork株式会社でバックエンドエンジニアをしています。主に Scala 書いてます。
 
 ### History
 
 ```diff
-- 2019/3 NIT, Gifu
-  2019/4 Nagoya Kougakuin College
-+ 2021/4 Chatwork
+- 2019/3 岐阜工業高等専門学校 電気情報工学科 中退
+  2019/4 名古屋工学院専門学校 高度情報学科 入学
+  2021/3 名古屋工学院専門学校 高度情報学科 卒業
++ 2021/4 Chatwork株式会社 join
 ```
 
 ### GitHub Status
 
-[![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&count_private=true&hide=issues)](https://github.com/trackiss?tab=repositories)
+[![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&count_private=true&hide=issues)](https://github.com/trackiss?tab=repositories&theme=dracula)
 
-[![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&hide=html,css,javascript)](https://github.com/trackiss?tab=repositories)
+[![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&hide=html,css,javascript)](https://github.com/trackiss?tab=repositories&theme=dracula)
+
+### Links
+
+- [Twitter](https://twitter.com/twi_trackiss)
+- [はてなブログ](https://trackiss.hateblo.jp)
+- [Qiita](https://qiita.com/trackiss)
+- [Speaker Deck](https://speakerdeck.com/trackiss)
+- [ニコニコ](https://www.nicovideo.jp/user/44928846)
+
+<!--
 
 ### (Currently Learning) Skils
 
@@ -106,6 +115,8 @@
     </tr>
   </tbody>
 </table>
+
+-->
 
 <br>
 
