@@ -13,9 +13,9 @@ Chatwork株式会社でバックエンドエンジニアをしています。主
 
 ### GitHub Status
 
-[![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&count_private=true&hide=issues)](https://github.com/trackiss?tab=repositories&theme=dracula)
+[![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&count_private=true&hide=issues&theme=dracula)](https://github.com/trackiss?tab=repositories)
 
-[![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&hide=html,css,javascript)](https://github.com/trackiss?tab=repositories&theme=dracula)
+[![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&hide=html,css,javascript&theme=dracula)](https://github.com/trackiss?tab=repositories)
 
 ### Links
 
