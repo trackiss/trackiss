@@ -1,8 +1,8 @@
 ## trackiss (とらきす)
 
-Chatwork株式会社でバックエンドエンジニアをしています。主に Scala 書いてます。
+Chatwork 株式会社で Scala 書いてます。
 
-### History
+### れきし
 
 ```diff
 - 2019/3 岐阜工業高等専門学校 電気情報工学科 中退
@@ -11,112 +11,26 @@ Chatwork株式会社でバックエンドエンジニアをしています。主
 + 2021/4 Chatwork株式会社 join
 ```
 
-### GitHub Status
+### しかく
+
+- 基本情報処理技術者
+- 応用情報処理技術者
+- 情報処理安全確保支援士
+- Java SE 8 Silver
+
+### GitHub すていたす
 
 [![trackiss's GitHub status](https://github-readme-stats.vercel.app/api?username=trackiss&show_icons=true&count_private=true&hide=issues&theme=dracula)](https://github.com/trackiss?tab=repositories)
 
 [![trackiss's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trackiss&hide=html,css,javascript&theme=dracula)](https://github.com/trackiss?tab=repositories)
 
-### Links
+### りんく
 
 - [Twitter](https://twitter.com/twi_trackiss)
 - [はてなブログ](https://trackiss.hateblo.jp)
 - [Qiita](https://qiita.com/trackiss)
 - [Speaker Deck](https://speakerdeck.com/trackiss)
-- [ニコニコ](https://www.nicovideo.jp/user/44928846)
-
-<!--
-
-### (Currently Learning) Skils
-
-<table>
-  <tbody>
-    <tr align="center">
-      <td>Scala</td>
-      <td>Kotlin</td>
-      <td>Haxe</td>
-      <td>C#</td>
-      <td>TypeScript</td>
-    </tr>
-    <tr align="center">
-      <td>
-        <a href="https://www.scala-lang.org/">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/scala.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://kotlinlang.org/">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://haxe.org/">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/haxe.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dotnet/csharplang">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.typescriptlang.org/">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-- and
-  - DDD, (Hexagonal | Onion | Clean) Architecture
-  - 関数型プログラミング
-  - 圏論
-  - 巨大数
-- etc...
-
-### Social
-
-<table>
-  <tbody>
-    <tr align="center">
-      <td>GitHub</td>
-      <td>Twitter</td>
-      <td>Qiita</td>
-      <td>Speaker Deck</td>
-      <td>niconico</td>
-    </tr>
-    <tr align="center">
-      <td>
-        <a href="https://github.com/trackiss">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://twitter.com/trackiss">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://qiita.com/trackiss">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/qiita.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://speakerdeck.com/trackiss">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/speakerdeck.svg">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.nicovideo.jp/user/44928846/video">
-          <img width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/niconico.svg">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
--->
+- [ニコニコ (耳コピ)](https://www.nicovideo.jp/user/44928846)
 
 <br>
 
