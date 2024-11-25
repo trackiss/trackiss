@@ -12,6 +12,7 @@ case class MyProfile extends GitHubProfile (
       .join("名古屋工学院専門学校 高度情報学科")
       .graduate("名古屋工学院専門学校 高度情報学科")
       .join("Chatwork株式会社")
+      .renameTo("株式会社kubell")
       .asScala,
 
     links = Map(
