@@ -11,8 +11,9 @@ case class MyProfile extends GitHubProfile (
       .drop("岐阜工業高等専門学校 電気情報工学科")
       .join("名古屋工学院専門学校 高度情報学科")
       .graduate("名古屋工学院専門学校 高度情報学科")
-      .join("Chatwork株式会社").asScala
-      .renameTo("Chatwork株式会社" -> "株式会社kubell"),
+      .join("Chatwork株式会社")
+      .renameTo("Chatwork株式会社" -> "株式会社kubell")
+      .asScala,
 
     links = Map(
         "GitHub"      -> this.toUrl,
