@@ -3,7 +3,7 @@
 ```scala
 case class MyProfile extends GitHubProfile (
     name      = "trackiss",
-    locate    = Japan.Gifu,
+    location  = Japan.Gifu,
     birthDate = LocalDate.parse("2000-11-24"),
 
     history = History.empty[Job]
