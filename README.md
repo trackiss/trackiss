@@ -2,7 +2,7 @@
 
 ```scala
 case class MyProfile(
-    name      = "Ryuki Kobayashi".aka("trackiss"),
+    name      = "Ryuki Kobayashi" aka "trackiss",
     location  = Japan.Gifu,
     birthDate = LocalDate.parse("2000-11-24"),
 
