@@ -15,10 +15,10 @@ case class MyProfile(
       .renameTo("Chatwork株式会社" -> "株式会社kubell"),
 
     links = Map(
-        "GitHub"      -> this.toUrl,
-        "X"           -> "https://x.com/twi_trackiss",
-        "HatenaBlog"  -> "https://trackiss.hateblo.jp",
-        "Qiita"       -> "https://qiita.com/trackiss"
+      "GitHub" -> this.url,
+      "X"      -> "https://x.com/twi_trackiss",
+      "Blog"   -> "https://trackiss.hateblo.jp",
+      "Qiita"  -> "https://qiita.com/trackiss"
     )
 ) extends GitHubProfile
 ```
